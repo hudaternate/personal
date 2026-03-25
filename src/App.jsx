@@ -3,10 +3,10 @@ import { Instagram, Twitter, Mail, ExternalLink, ChevronDown, ArrowRight, ArrowL
 
 // --- KONFIGURASI DATA (Ubah di sini) ---
 const PERSONAL_INFO = {
-  name: "NAMA ANDA", // Ganti dengan nama Anda
-  role: "Ilustrator & Desainer Karakter",
+  name: "Hudaternate", // Ganti dengan nama Anda
+  role: "Ilustrator & Manga Charakter Designer",
   bio: "Halo! Saya adalah seorang ilustrator lepas yang berbasis di Indonesia. Saya memiliki hasrat yang besar dalam menciptakan karakter yang hidup, penuh warna, dan dinamis. Terinspirasi oleh budaya pop, anime, dan streetwear.",
-  email: "hello@emailanda.com",
+  email: "hudaternate@gmail.com",
   socials: {
     twitter: "https://twitter.com",
     instagram: "https://instagram.com",
